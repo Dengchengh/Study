@@ -30,4 +30,5 @@
 
 1. `ping -a ip`在ping成功时会发出声音
 2. `ping -i n ip`每隔n秒发送一次
+3. `ping -c 100 -q ip`
 
